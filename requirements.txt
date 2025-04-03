@@ -1,0 +1,5 @@
+Flask
+tensorflow-cpu==2.14.0  # Hoặc phiên bản mới nhất   
+numpy<2
+pillow
+gunicorn
